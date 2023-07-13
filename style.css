@@ -1,0 +1,22 @@
+.BernaTop{
+    font-size: 18px;
+    width: 100%;
+}
+.note{
+    font-size: 13px;
+}
+.Creditos{
+    color: aliceblue;
+    background-color: rgb(20, 184, 203);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.inputi{
+    color: rgb(255, 0, 0);
+    
+}
+canvas{
+    margin-top: 4%;
+}
